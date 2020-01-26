@@ -1,0 +1,7 @@
+
+asquid:S3752">Add a "method" parameter to this "@RequestMapping" annotation.(ÍƒÉ‘úÿÿÿÿ8Ëž«Šþ-
+psquid:S00116"QRename this field "LOGGER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸ž¢ç8ÅþæŠþ-
+jsquid:S00112$"FDefine and throw a dedicated exception instead of using a generic one.(æ¿£Îüÿÿÿÿ8××µŠþ-
+“squid:S1845"pRename method "restTemplate" to prevent any misunderstanding/clash with field "restTemplate" defined on line 18.(èˆúäúÿÿÿÿ8¨è¦Šþ-
+\squid:S3752 ">Add a "method" parameter to this "@RequestMapping" annotation.(Ì²àœ8Ýµ±Šþ-
+Fsquid:S1148&"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8ÎŒ¶Šþ-
